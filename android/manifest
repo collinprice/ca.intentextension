@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+architectures: armeabi armeabi-v7a x86
+description: IntentExtension
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2015 by Your Company
+
+# these should not be edited
+name: IntentExtension
+moduleid: ca.intentextension
+guid: c72b857f-8a9b-4276-a850-765ea14555ad
+platform: android
+minsdk: 4.1.0.v20150724170127
